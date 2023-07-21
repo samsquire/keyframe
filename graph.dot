@@ -1,0 +1,7 @@
+digraph G {
+
+  "rcx=codata"  -> "mov %rcx, %rax rax=codata";
+  "rcx=codata"  -> "mov %rcx, %rdx rdx=codata";
+  "rcx=codata"  -> "mov %rcx, %rbx, rbx=codata";
+
+}

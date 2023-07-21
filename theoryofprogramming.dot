@@ -1,0 +1,3 @@
+digraph G {
+  "move-things-around" -> "call-a-function" -> "store-to-memory";
+}
